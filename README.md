@@ -1,7 +1,7 @@
 ## Hi there!  <img src="./wave.gif" width="30">
 I'm Max, a passionate Front End Developer with a deep love for technology, learning, and continuous improvement. Welcome to my GitHub profile!
 
-## About Me
+## 🧑‍💻 About Me
 I'm currently exploring exciting opportunities and open to new offers! As a developer, I thrive on crafting intuitive, responsive, and efficient user interfaces. Let's build something amazing together!
 
 - 🚀 **Driven to Improve**: I'm constantly seeking ways to sharpen my programming skills and embrace new challenges.
@@ -9,12 +9,12 @@ I'm currently exploring exciting opportunities and open to new offers! As a deve
 - 😄 **Fun Fact**: My superpower? Googling. There's always a solution, you just need to know how to find it!
 📫 **Get in Touch**: Feel free to reach out to me via [Email](mailto:maxduma16@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/maxduma).
 
-## What I Do
+## 💼 What I Do
 I'm focused on creating modern, scalable, and maintainable web applications using the latest technologies in the front-end ecosystem. I specialize in:
 **JavaScript, TypeScript, React.js, Next.js, Redux, Styled-Components, Material-UI, Node.js, MongoDB, REST API, Axios, WebSocket, Git,
 Html, Css, Scss**
 
-## Let's Connect!
+## 🤝 Let's Connect!
 Feel free to explore my repositories, contribute, or just drop a message! Always happy to collaborate and share knowledge. 🚀
 
 ## 🛠 Technologies
