@@ -78,4 +78,5 @@ _(Note: These stats are only based on public repositories)_
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maxduma&theme=vue-dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxduma&layout=compact&theme=vue-dark)
+
 ![Profile views](https://komarev.com/ghpvc/?username=maxduma)
