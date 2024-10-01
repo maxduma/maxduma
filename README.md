@@ -6,7 +6,7 @@ I'm currently exploring exciting opportunities and open to new offers! As a deve
 - 🚀 **Driven to Improve**: I'm constantly seeking ways to sharpen my programming skills and embrace new challenges.
 - 🌱 **Currently Learning**: Diving deep into **Next.js** and **React Native** to expand my front-end expertise.
 - 😄 **Fun Fact**: My superpower? Googling. There's always a solution, you just need to know how to find it!
-- 📫 **Get in Touch**: Feel free to reach out to me at maxduma16@gmail.com or https://www.linkedin.com/in/maxduma.
+📫 **Get in Touch**: Feel free to reach out to me via [Email](mailto:maxduma16@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/maxduma).
 
 ## What I Do
 I'm focused on creating modern, scalable, and maintainable web applications using the latest technologies in the front-end ecosystem. I specialize in:
