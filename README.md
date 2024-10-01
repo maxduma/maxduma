@@ -74,22 +74,8 @@ Feel free to explore my repositories, contribute, or just drop a message! Always
 </p>
 
 ## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxduma&show_icons=true&theme=vue-dark)
 _(Note: These stats are only based on public repositories)_
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxduma&layout=compact&theme=vue-dark)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maxduma&theme=vue-dark)](https://git.io/streak-stats)
-
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=maxduma&theme=react-dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=maxduma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Profile views](https://komarev.com/ghpvc/?username=maxduma)
-
-
-_(Note: These stats are only based on public repositories)_
-
-
-
