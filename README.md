@@ -75,7 +75,8 @@ Feel free to explore my repositories, contribute, or just drop a message! Always
 
 ## 📊 GitHub Stats
 _(Note: These stats are only based on public repositories)_
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxduma&layout=compact&theme=vue-dark)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maxduma&theme=vue-dark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxduma&layout=compact&theme=vue-dark)
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=maxduma&theme=react-dark)
 ![Profile views](https://komarev.com/ghpvc/?username=maxduma)
