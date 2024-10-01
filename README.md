@@ -1,4 +1,4 @@
-## Hi there 👋
+## Fancy seeing you here! <img src="./wave.gif" width="30">
 
 <!--
 **maxduma/maxduma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
