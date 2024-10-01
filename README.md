@@ -1,4 +1,5 @@
-Hi there! 👋 I'm Max, a passionate Front End Developer with a deep love for technology, learning, and continuous improvement. Welcome to my GitHub profile!
+## Hi there!  <img src="./wave.gif" width="30">
+I'm Max, a passionate Front End Developer with a deep love for technology, learning, and continuous improvement. Welcome to my GitHub profile!
 
 ## About Me
 I'm currently exploring exciting opportunities and open to new offers! As a developer, I thrive on crafting intuitive, responsive, and efficient user interfaces. Let's build something amazing together!
