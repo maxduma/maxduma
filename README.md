@@ -75,7 +75,7 @@ Feel free to explore my repositories, contribute, or just drop a message! Always
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=vue-dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxduma&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxduma&layout=compact&theme=vue-dark)
 
