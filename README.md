@@ -5,7 +5,7 @@ I'm Max, a passionate Front End Developer with a deep love for technology, learn
 I'm currently exploring exciting opportunities and open to new offers! As a developer, I thrive on crafting intuitive, responsive, and efficient user interfaces. Let's build something amazing together!
 
 - 🚀 **Driven to Improve**: I'm constantly seeking ways to sharpen my programming skills and embrace new challenges.
-- 🌱 **Currently Learning**: Diving deep into **Vue.js**, **Nuxt.js** and **Nest.js** to expand my front-end expertise.
+- 🌱 **Currently Learning**: Diving deep into **React Native** to expand my expertise.
 - 😄 **Fun Fact**: My superpower? Googling. There's always a solution, you just need to know how to find it!
 📫 **Get in Touch**: Feel free to reach out to me via [Email](mailto:maxduma16@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/maxduma).
 
