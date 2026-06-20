@@ -115,14 +115,6 @@ I build **AI-powered products** — autonomous agents, RAG pipelines, and LLM in
   <img src="https://img.shields.io/badge/-Re--ranking-0B7285?style=flat-square" />
   <!-- Vector Databases -->
   <img src="https://img.shields.io/badge/-MongoDB%20Atlas%20Vector%20Search-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <!-- Agent Memory -->
-  <img src="https://img.shields.io/badge/-Short--Term%20Memory-5B21B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Long--Term%20Memory-5B21B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Conversation%20Memory-5B21B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Vector%20Memory-5B21B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Semantic%20Memory-5B21B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Episodic%20Memory-5B21B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-User%20Profile%20Memory-5B21B6?style=flat-square" />
   <!-- Tools & Function Calling -->
   <img src="https://img.shields.io/badge/-JSON%20Schema-334155?style=flat-square" />
   <img src="https://img.shields.io/badge/-Model%20Context%20Protocol%20(MCP)-334155?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
