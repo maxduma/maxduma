@@ -128,15 +128,6 @@ I build **AI-powered products** — autonomous agents, RAG pipelines, and LLM in
   <img src="https://img.shields.io/badge/-Model%20Context%20Protocol%20(MCP)-334155?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
   <img src="https://img.shields.io/badge/-Multi--Agent%20Systems-334155?style=flat-square" />
   <img src="https://img.shields.io/badge/-Agent%20Orchestration-334155?style=flat-square" />
-  <!-- Browser Automation -->
-  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-  <!-- OCR & Document Processing -->
-  <img src="https://img.shields.io/badge/-Google%20Cloud%20Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tesseract%20OCR-B45309?style=flat-square" />
-  <img src="https://img.shields.io/badge/-PDF%20Parsing-B45309?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Image%20Processing-B45309?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Document%20Extraction-B45309?style=flat-square" />
   <!-- Local & Open-Source LLMs -->
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/-llama.cpp-4B5563?style=flat-square" />
@@ -159,10 +150,21 @@ I build **AI-powered products** — autonomous agents, RAG pipelines, and LLM in
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+## 📄 Data Processing & OCR
+<p>
+  <img src="https://img.shields.io/badge/-Google%20Cloud%20Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tesseract%20OCR-B45309?style=flat-square" />
+  <img src="https://img.shields.io/badge/-PDF%20Parsing-B45309?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Image%20Processing-B45309?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Document%20Extraction-B45309?style=flat-square" />
+</p>
+
 ## 🧰 Dev Tools
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
