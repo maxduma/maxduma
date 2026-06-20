@@ -11,7 +11,7 @@ I build modern, scalable, and maintainable applications **end-to-end** — from 
 - 🌱 **Currently exploring** — agentic & multi-agent systems and on-device / local LLMs.
 - 😄 **Fun fact** — my real superpower is turning vague ideas into shipped features (with a little help from my AI pair-programmers).
 
-📫 **Let's talk:** maxduma16@gmail.com · [LinkedIn](https://www.linkedin.com/in/maxduma) · [Telegram](https://t.me/maxduma) · [Website](https://maxduma.com)
+📫 **Let's talk:** [Email](mailto:maxduma16@gmail.com) · [LinkedIn](https://www.linkedin.com/in/maxduma) · [Telegram](https://t.me/maxduma) · [Website](https://maxduma.com)
 
 ## 💼 What I Do
 - **Front-End** — fast, accessible, responsive interfaces with React, Next.js & TypeScript.
@@ -85,40 +85,27 @@ Feel free to explore my repositories, contribute, or just drop a message! Always
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
----
-
 ## 🤖 AI Engineering
 
-> I build **AI-powered products** — autonomous agents, RAG pipelines, and LLM integrations — and ship faster with AI-native tooling. Here's the stack I work with across providers, frameworks, retrieval, and memory.
+I build **AI-powered products** — autonomous agents, RAG pipelines, and LLM integrations — and ship faster with AI-native tooling. Here's the stack I work with across providers, frameworks, retrieval, and memory.
 
-### 🧰 AI Dev Tools
 <p>
+  <!-- AI Dev Tools -->
   <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20AI%20Studio-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20ADK%20(Agents)-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Open%20Claw-000000?style=flat-square" />
-</p>
-
-### 🧠 AI Models / Providers
-<p>
+  <!-- AI Models / Providers -->
   <img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/-Google%20Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/-Anthropic%20Claude%20API-D97757?style=flat-square&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/-Perplexity%20API-20B8CD?style=flat-square&logo=perplexity&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenRouter-6566F1?style=flat-square&logo=openrouter&logoColor=white" />
-</p>
-
-### 🕸️ Agent Frameworks
-<p>
+  <!-- Agent Frameworks -->
   <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
   <img src="https://img.shields.io/badge/-LlamaIndex-1C3C3C?style=flat-square" />
-</p>
-
-### 📚 RAG / Knowledge Base
-<p>
+  <!-- RAG / Knowledge Base -->
   <img src="https://img.shields.io/badge/-RAG-0B7285?style=flat-square" />
   <img src="https://img.shields.io/badge/-Vector%20Search-0B7285?style=flat-square" />
   <img src="https://img.shields.io/badge/-Embeddings-0B7285?style=flat-square" />
@@ -126,15 +113,9 @@ Feel free to explore my repositories, contribute, or just drop a message! Always
   <img src="https://img.shields.io/badge/-Hybrid%20Search-0B7285?style=flat-square" />
   <img src="https://img.shields.io/badge/-Semantic%20Search-0B7285?style=flat-square" />
   <img src="https://img.shields.io/badge/-Re--ranking-0B7285?style=flat-square" />
-</p>
-
-### 🧮 Vector Databases
-<p>
+  <!-- Vector Databases -->
   <img src="https://img.shields.io/badge/-MongoDB%20Atlas%20Vector%20Search-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-### 🧷 Agent Memory
-<p>
+  <!-- Agent Memory -->
   <img src="https://img.shields.io/badge/-Short--Term%20Memory-5B21B6?style=flat-square" />
   <img src="https://img.shields.io/badge/-Long--Term%20Memory-5B21B6?style=flat-square" />
   <img src="https://img.shields.io/badge/-Conversation%20Memory-5B21B6?style=flat-square" />
@@ -142,36 +123,26 @@ Feel free to explore my repositories, contribute, or just drop a message! Always
   <img src="https://img.shields.io/badge/-Semantic%20Memory-5B21B6?style=flat-square" />
   <img src="https://img.shields.io/badge/-Episodic%20Memory-5B21B6?style=flat-square" />
   <img src="https://img.shields.io/badge/-User%20Profile%20Memory-5B21B6?style=flat-square" />
-</p>
-
-### 🛠️ Tools & Function Calling
-<p>
+  <!-- Tools & Function Calling -->
   <img src="https://img.shields.io/badge/-JSON%20Schema-334155?style=flat-square" />
   <img src="https://img.shields.io/badge/-Model%20Context%20Protocol%20(MCP)-334155?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
   <img src="https://img.shields.io/badge/-Multi--Agent%20Systems-334155?style=flat-square" />
   <img src="https://img.shields.io/badge/-Agent%20Orchestration-334155?style=flat-square" />
-</p>
-
-### 🌐 Browser Automation
-<p>
+  <!-- Browser Automation -->
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square" />
-</p>
-
-### 📄 OCR & Document Processing
-<p>
+  <img src="https://img.shields.io/badge/-Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+  <!-- OCR & Document Processing -->
   <img src="https://img.shields.io/badge/-Google%20Cloud%20Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tesseract%20OCR-B45309?style=flat-square" />
   <img src="https://img.shields.io/badge/-PDF%20Parsing-B45309?style=flat-square" />
   <img src="https://img.shields.io/badge/-Image%20Processing-B45309?style=flat-square" />
   <img src="https://img.shields.io/badge/-Document%20Extraction-B45309?style=flat-square" />
-</p>
-
-### 💻 Local & Open-Source LLMs
-<p>
+  <!-- Local & Open-Source LLMs -->
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/-llama.cpp-4B5563?style=flat-square" />
   <img src="https://img.shields.io/badge/-LM%20Studio-4B5563?style=flat-square" />
   <img src="https://img.shields.io/badge/-Hermes-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Open%20Claw-4B5563?style=flat-square" />
 </p>
 
 ---
