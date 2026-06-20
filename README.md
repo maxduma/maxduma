@@ -11,7 +11,7 @@ I build modern, scalable, and maintainable applications **end-to-end** — from 
 - 🌱 **Currently exploring** — agentic & multi-agent systems and on-device / local LLMs.
 - 😄 **Fun fact** — my real superpower is turning vague ideas into shipped features (with a little help from my AI pair-programmers).
 
-📫 **Let's talk:** maxduma16@gmail.com · [LinkedIn](https://www.linkedin.com/in/maxduma) · [Telegram](https://t.me/maxduma) · [Website](https://maxduma.com)
+📫 **Let's talk:** [LinkedIn](https://www.linkedin.com/in/maxduma) · [Telegram](https://t.me/maxduma) · [Website](https://maxduma.com)
 
 ## 💼 What I Do
 - **Front-End** — fast, accessible, responsive interfaces with React, Next.js & TypeScript.
