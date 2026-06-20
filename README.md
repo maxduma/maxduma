@@ -1,6 +1,6 @@
 ## Hi there!  <img src="./wave.gif" width="30">
 
-I'm **Max** — a results-driven **Software Engineer** with **6+ years of experience** shipping products across **Front-End**, **Full-Stack**, and **React Native / mobile**. I care about clean code, performance, and building features that genuinely solve users' problems. Welcome to my GitHub profile! 👋
+I'm **Max** — a results-driven **Software Engineer** with **7+ years of experience** shipping products across **Front-End**, **Full-Stack**, and **React Native / mobile**. I care about clean code, performance, and building features that genuinely solve users' problems. Welcome to my GitHub profile! 👋
 
 ## 🧑‍💻 About Me
 I build modern, scalable, and maintainable applications **end-to-end** — from polished web UIs and cross-platform mobile apps to the APIs and services that power them. These days a big part of my work is **AI engineering**: designing LLM-powered features, autonomous agents, and RAG systems, and weaving AI deeply into both the products I ship and the way I build them.
@@ -11,7 +11,7 @@ I build modern, scalable, and maintainable applications **end-to-end** — from 
 - 🌱 **Currently exploring** — agentic & multi-agent systems and on-device / local LLMs.
 - 😄 **Fun fact** — my real superpower is turning vague ideas into shipped features (with a little help from my AI pair-programmers).
 
-📫 **Let's talk:** [Email](mailto:maxduma16@gmail.com) · [LinkedIn](https://www.linkedin.com/in/maxduma) · [Telegram](https://t.me/maxduma) · [Portfolio](https://maxduma.com)
+📫 **Let's talk:** maxduma16@gmail.com · [LinkedIn](https://www.linkedin.com/in/maxduma) · [Telegram](https://t.me/maxduma) · [Website](https://maxduma.com)
 
 ## 💼 What I Do
 - **Front-End** — fast, accessible, responsive interfaces with React, Next.js & TypeScript.
@@ -58,6 +58,11 @@ Feel free to explore my repositories, contribute, or just drop a message! Always
 <p>
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/-App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adapty-6C47FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Superwall-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/-RevenueCat-F25000?style=flat-square&logo=revenuecat&logoColor=white" />
 </p>
 
 ### 🔌 Backend
@@ -91,6 +96,9 @@ Feel free to explore my repositories, contribute, or just drop a message! Always
   <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20AI%20Studio-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20ADK%20(Agents)-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Open%20Claw-000000?style=flat-square" />
 </p>
 
 ### 🧠 AI Models / Providers
