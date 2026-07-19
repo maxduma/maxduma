@@ -164,6 +164,11 @@ I build **AI-powered products** — autonomous agents, RAG pipelines, and LLM in
   <img src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
 </p>
 
+### 🖥️ Desktop
+<p>
+  <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+</p>
+
 ## 📊 GitHub Stats
 _(Note: These stats are only based on public repositories)_
 
